@@ -6,7 +6,7 @@
 
 ## 💻 Google Colab
 
-[🚀 Open in Google Colab](LINK_COLAB)
+[🚀 Open in Google Colab](https://colab.research.google.com/github/fatwa2601/testing_module_1/blob/main/Module_1_Practicum.ipynb)
 
 ## 📊 Dataset
 
